@@ -15,7 +15,7 @@
 </h3>
 
 - 🌐 React, Nextjs, React Native
-- 🎡 Nodejs, REST api, GraphQL,PHP, Express, Laravel 
-- 📦 Mongodb, MySQL, Postgres, CouchDb
+- 🎡 Nodejs, REST Api, GraphQL, PHP, Express, Laravel 
+- 📦 Mongodb, MySQL, PostgreSQL, CouchDb
 - 🚀 Redis, Terraform, Firebase
 - ☁️ AWS, Google Cloud, Digital Ocean
