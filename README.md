@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Intro  -->
+<h3>
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://in.linkedin.com/in/alok-paidalwar-b4b89b11b">Alok Paidalwar</a></b>
+        </samp>
+</h3>
 
-<!--
-**alokpaidalwar/alokpaidalwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Currently working as Lead Full Stack Developer
+- 🧭 Total Experience 5+ years
+- ☁️ Certified AWS Solution Arcitect Associate
 
-Here are some ideas to get you started:
+<h3>
+        <samp>&gt; Skills
+        </samp>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 React, Nextjs, React Native
+- 🎡 Nodejs, REST api, GraphQL,PHP, Express, Laravel 
+- 📦 Mongodb, MySQL, Postgres, CouchDb
+- 🚀 Redis, Terraform, Firebase
+- ☁️ AWS, Google Cloud, Digital Ocean
